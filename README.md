@@ -12,7 +12,7 @@ A little project I made while waiting for some stuff. Since I ended up liking ho
 
 ## Installation Guide
 ### Manual Instalation
-To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside to **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties ➜ Pointers"** and customize it to your liking.
+To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside of the folder **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties ➜ Pointers"** and customize it to your liking.
 
 
 ## Preview
