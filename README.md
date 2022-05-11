@@ -2,9 +2,9 @@
 
 ## Index
 
-* [About](#about)
-* [Installation Guide](#installation-guide)
-* [Preview](#preview)
+* [**About**](#about)
+* [**Installation Guide**](#installation-guide)
+* [**Preview**](#preview)
 
 ## About
 
