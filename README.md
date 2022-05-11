@@ -22,7 +22,7 @@ To install manually you have to [**download**](https://codeload.github.com/MoxxI
 | Normal Select | ![image](https://user-images.githubusercontent.com/85062773/167843927-fe628258-305f-40ef-8875-e43fd5951b19.png) | ![image](https://user-images.githubusercontent.com/85062773/167838727-c4809f6c-06ed-43e8-939a-8aa62fa95f6f.png)|
 | Help Select | ![image](https://user-images.githubusercontent.com/85062773/167922074-214e88e1-1143-42f1-955d-b32f44014363.png) | ![image](https://user-images.githubusercontent.com/85062773/167838831-cdb95e35-f19a-4838-bde8-c00f76353a09.png) |
 | Working in Background | ![image](https://user-images.githubusercontent.com/85062773/167922247-8548c83b-1901-473f-922e-6a43c082ec2f.png) | ![image](https://user-images.githubusercontent.com/85062773/167838945-9bbf0579-8502-42d0-a149-bdb1d030a07a.png) |
-| Busy |  | ![image](https://user-images.githubusercontent.com/85062773/167839020-739c7709-6ded-4901-942c-e090d149fff9.png) |
+| Busy | ![image](https://user-images.githubusercontent.com/85062773/167928152-225acf6e-d891-437f-b648-822bb0222891.png) | ![image](https://user-images.githubusercontent.com/85062773/167839020-739c7709-6ded-4901-942c-e090d149fff9.png) |
 | Precision Select |  | **Default** |
 | Text Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839084-6941cced-528c-45b2-af29-03611051be26.png) |
 | Handwriting |  | ![image](https://user-images.githubusercontent.com/85062773/167839163-c5b587c7-301d-402e-bbe0-f8263a64ecb3.png) |
