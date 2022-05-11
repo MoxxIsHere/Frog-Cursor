@@ -1,8 +1,25 @@
-# Frog-Cursor
+# Frog Cursor
+
+## Index
+
+* [About](#about)
+* [Installation Guide](#installation-guide)
+* [Preview](#preview)
+
+## About
+
+A little project I made while waiting for some stuff. Since I ended up liking how it turned out, I decided to go ahead publish it. It can be manually installed if you know how to (here's a guide anyway) or you can download a WIP from the [**Releases**](https://github.com/MoxxIsHere/Frog-Cursor/releases) tab (which is currently empty).
+
+## Installation Guide
+### Manual Instalation
+To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside to **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties / Pointers"** and customize it to your liking.
+
+
+## Preview
 
 | Name | Default | Frog |
 | ----------- | ----------- | ----------- |
-| Normal Select |  | ![image](https://user-images.githubusercontent.com/85062773/167838727-c4809f6c-06ed-43e8-939a-8aa62fa95f6f.png)|
+| Normal Select | ![image](https://user-images.githubusercontent.com/85062773/167843927-fe628258-305f-40ef-8875-e43fd5951b19.png) | ![image](https://user-images.githubusercontent.com/85062773/167838727-c4809f6c-06ed-43e8-939a-8aa62fa95f6f.png)|
 | Help Select |  | ![image](https://user-images.githubusercontent.com/85062773/167838831-cdb95e35-f19a-4838-bde8-c00f76353a09.png) |
 | Working in Background |  | ![image](https://user-images.githubusercontent.com/85062773/167838945-9bbf0579-8502-42d0-a149-bdb1d030a07a.png) |
 | Busy |  | ![image](https://user-images.githubusercontent.com/85062773/167839020-739c7709-6ded-4901-942c-e090d149fff9.png) |
