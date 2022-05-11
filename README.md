@@ -36,3 +36,5 @@ To install manually you have to [**download**](https://codeload.github.com/MoxxI
 | Link-Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839254-eca17d93-3c01-4078-a5fe-a04de68ea7ea.png) |
 | Location Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839452-ad50a431-2b92-47b5-bfbd-13852c1ab7f2.png) |
 | Person Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839594-d0105ce4-292c-4657-a061-931812cd62cc.png) |
+
+[**Return to Index**](#index)
