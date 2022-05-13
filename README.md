@@ -8,11 +8,34 @@
 
 ## About
 
-A little project I made while waiting for some stuff. Since I ended up liking how it turned out, I decided to go ahead publish it. It can be manually installed if you know how to (here's a guide anyway) or you can download a WIP from the [**Releases**](https://github.com/MoxxIsHere/Frog-Cursor/releases) tab (which is currently empty).
+A little project I made while waiting for some stuff. Since I ended up liking how it turned out, I decided to go ahead publish it.
 
 ## Installation Guide
 ### Manual Installation
 To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside of the folder you extracted into **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties ➜ Pointers"** and customize it to your liking.
+
+### Setup Installation
+You need an internet connection to install with the setup.
+1. Start by running the **Frog Cursor Setup.exe** that you can download from the [**Releases**](https://github.com/MoxxIsHere/Frog-Cursor/releases) tab;
+
+![image](https://user-images.githubusercontent.com/85062773/168297585-e2cdabf8-02e4-4ba6-a569-59a236ec2cfd.png)
+
+
+2. Open the Windows **Control Panel**;
+
+![image](https://user-images.githubusercontent.com/85062773/168297281-94c7caf5-7241-4ac4-810a-252c7060290a.png)
+
+3. Select **"Mouse"**;
+
+![image](https://user-images.githubusercontent.com/85062773/168297910-5ca49842-0754-4e2a-bb24-63a0313298bb.png)
+
+4. Select the **"Pointers"** tab;
+
+![image](https://user-images.githubusercontent.com/85062773/168298155-2f1d503f-4569-44df-b3e9-46040abc7200.png)
+
+5. On the **"Schemes"** dropdown box, select **"FrogCursor"**, then hit apply.
+
+![image](https://user-images.githubusercontent.com/85062773/168298301-567cfddb-b1d1-43ee-8d25-15a0047c75fa.png)
 
 
 ## Preview
