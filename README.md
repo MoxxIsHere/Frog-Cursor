@@ -8,12 +8,9 @@
 
 ## About
 
-A little project I made while waiting for some stuff. Since I ended up liking how it turned out, I decided to go ahead publish it.
+A little project I made while waiting for some stuff. Since I ended up liking how it turned out, I decided to go ahead publish it. What it does is download a couple of pixel drawn cursors I made myself into the system files and alter the registry for easy installation.
 
 ## Installation Guide
-### Manual Installation
-To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside of the folder you extracted into **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties ➜ Pointers"** and customize it to your liking.
-
 ### Setup Installation
 You need an internet connection to install with the setup.
 1. Start by running the **Frog Cursor Setup.exe** that you can download from the [**Releases**](https://github.com/MoxxIsHere/Frog-Cursor/releases) tab;
@@ -36,6 +33,9 @@ You need an internet connection to install with the setup.
 5. On the **"Schemes"** dropdown box, select **"FrogCursor"**, then hit apply.
 
 ![image](https://user-images.githubusercontent.com/85062773/168298301-567cfddb-b1d1-43ee-8d25-15a0047c75fa.png)
+
+### Manual Installation
+To install manually you have to [**download**](https://codeload.github.com/MoxxIsHere/Frog-Cursor/zip/refs/heads/main) the **.zip** file and extract it. Next copy the **.cur** files inside of the folder you extracted into **"C:\Windows\Cursors\"**, then either use the **scheme.reg** file to create a cursor scheme automatically or head on over to **"Mouse Properties ➜ Pointers"** and customize it to your liking.
 
 
 ## Preview
