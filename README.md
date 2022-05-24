@@ -46,18 +46,18 @@ To install manually you have to [**download**](https://codeload.github.com/MoxxI
 | Help Select | ![image](https://user-images.githubusercontent.com/85062773/167922074-214e88e1-1143-42f1-955d-b32f44014363.png) | ![image](https://user-images.githubusercontent.com/85062773/167838831-cdb95e35-f19a-4838-bde8-c00f76353a09.png) |
 | Working in Background | ![image](https://user-images.githubusercontent.com/85062773/167922247-8548c83b-1901-473f-922e-6a43c082ec2f.png) | ![image](https://user-images.githubusercontent.com/85062773/167838945-9bbf0579-8502-42d0-a149-bdb1d030a07a.png) |
 | Busy | ![image](https://user-images.githubusercontent.com/85062773/167928152-225acf6e-d891-437f-b648-822bb0222891.png) | ![image](https://user-images.githubusercontent.com/85062773/167839020-739c7709-6ded-4901-942c-e090d149fff9.png) |
-| Precision Select |  | **Default** |
-| Text Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839084-6941cced-528c-45b2-af29-03611051be26.png) |
-| Handwriting |  | ![image](https://user-images.githubusercontent.com/85062773/167839163-c5b587c7-301d-402e-bbe0-f8263a64ecb3.png) |
-| Unavailable |  | ![image](https://user-images.githubusercontent.com/85062773/167839217-28b1a3b9-15d9-49ef-adde-827fe7dab562.png) |
-| Vertical Resize |  | **Default** |
-| Horizontal Resize |  | **Default** |
-| Diagonal Resize 1 |  | **Default** |
-| Diagonal Resize 2 |  | **Default** |
-| Move |  | **Default** |
-| Alternate Select |  | **Default** |
-| Link-Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839254-eca17d93-3c01-4078-a5fe-a04de68ea7ea.png) |
-| Location Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839452-ad50a431-2b92-47b5-bfbd-13852c1ab7f2.png) |
-| Person Select |  | ![image](https://user-images.githubusercontent.com/85062773/167839594-d0105ce4-292c-4657-a061-931812cd62cc.png) |
+| Precision Select | ![image](https://user-images.githubusercontent.com/85062773/169987198-e852d51b-4e8e-4cc8-8533-662252d0de4c.png) | **Default** |
+| Text Select | ![image](https://user-images.githubusercontent.com/85062773/169987420-3e6d4dd8-8f66-4d07-9835-554998c80232.png) | ![image](https://user-images.githubusercontent.com/85062773/167839084-6941cced-528c-45b2-af29-03611051be26.png) |
+| Handwriting | ![image](https://user-images.githubusercontent.com/85062773/169987916-e19f2512-5607-4f70-a8da-de544529639e.png) | ![image](https://user-images.githubusercontent.com/85062773/167839163-c5b587c7-301d-402e-bbe0-f8263a64ecb3.png) |
+| Unavailable | ![image](https://user-images.githubusercontent.com/85062773/169988405-cfa5a338-cdac-4806-a76f-f01797d7cf69.png) | ![image](https://user-images.githubusercontent.com/85062773/167839217-28b1a3b9-15d9-49ef-adde-827fe7dab562.png) |
+| Vertical Resize | ![image](https://user-images.githubusercontent.com/85062773/169989270-cb760a77-55e4-42ae-a68c-af4f91c9d29f.png) | **Default** |
+| Horizontal Resize | ![image](https://user-images.githubusercontent.com/85062773/169989299-17d4e367-a4d0-4bb5-b38d-570e6cdc36f9.png) | **Default** |
+| Diagonal Resize 1 | ![image](https://user-images.githubusercontent.com/85062773/169991090-eba26be5-2110-4c40-8907-58baf64f38f5.png) | **Default** |
+| Diagonal Resize 2 | ![image](https://user-images.githubusercontent.com/85062773/169991118-74c60f1b-0746-4ce5-be37-213965c4614b.png) | **Default** |
+| Move | ![image](https://user-images.githubusercontent.com/85062773/169989865-2ac6d89b-4c9d-4c81-900d-7aef558488cf.png) | **Default** |
+| Alternate Select | ![image](https://user-images.githubusercontent.com/85062773/169991545-307d8c62-9d89-4f8a-a485-78ef7be3e01d.png) | **Default** |
+| Link-Select | ![image](https://user-images.githubusercontent.com/85062773/169991806-28a379dd-16d8-48a1-81f1-3ce4050f9da9.png) | ![image](https://user-images.githubusercontent.com/85062773/167839254-eca17d93-3c01-4078-a5fe-a04de68ea7ea.png) |
+| Location Select | ![image](https://user-images.githubusercontent.com/85062773/169993511-cc9f2ca6-3ec1-4aa6-9bb6-97e1956969b4.png) | ![image](https://user-images.githubusercontent.com/85062773/167839452-ad50a431-2b92-47b5-bfbd-13852c1ab7f2.png) |
+| Person Select | ![image](https://user-images.githubusercontent.com/85062773/169994414-b98359d8-94f5-422b-8fed-39d13e16789e.png) | ![image](https://user-images.githubusercontent.com/85062773/167839594-d0105ce4-292c-4657-a061-931812cd62cc.png) |
 
 [**Return to Top**](#Frog-Cursor)
