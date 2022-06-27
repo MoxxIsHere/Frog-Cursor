@@ -5,6 +5,7 @@
 * [**About**](#about)
 * [**Installation Guide**](#installation-guide)
 * [**Preview**](#preview)
+* [**Usage**](#usage)
 
 ## About
 
@@ -60,4 +61,9 @@ To install manually you have to [**download**](https://codeload.github.com/MoxxI
 | Location Select | ![image](https://user-images.githubusercontent.com/85062773/169993511-cc9f2ca6-3ec1-4aa6-9bb6-97e1956969b4.png) | ![image](https://user-images.githubusercontent.com/85062773/167839452-ad50a431-2b92-47b5-bfbd-13852c1ab7f2.png) |
 | Person Select | ![image](https://user-images.githubusercontent.com/85062773/169994414-b98359d8-94f5-422b-8fed-39d13e16789e.png) | ![image](https://user-images.githubusercontent.com/85062773/167839594-d0105ce4-292c-4657-a061-931812cd62cc.png) |
 
-[**Return to Top**](#Frog-Cursor)
+
+## Usage
+
+All of the resources on this repository are free to be used for non-commercial means and personal usage under the condition that I, the rightful owner, am mentioned or a link to this repository is present on the head or sources for whatever use. This applies to the image files and the setup alike.
+
+[**Return to Top**](#frog-cursor)
