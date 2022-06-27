@@ -1,0 +1,1 @@
+## Please contribute by creating Issues, Bug Reports or posting ideas in the discussions. This project is declared as finished, and if something is changed it'll probably be a big change so it can include more than the current Cursor.
