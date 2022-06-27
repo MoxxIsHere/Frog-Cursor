@@ -64,6 +64,6 @@ To install manually you have to [**download**](https://codeload.github.com/MoxxI
 
 ## Usage
 
-All of the resources on this repository are free to be used for non-commercial means and personal usage under the condition that I, the rightful owner, am mentioned or a link to this repository is present on the head or sources for whatever use. This applies to the image files and the setup alike.
+All of the resources on this repository are free to be used for non-commercial and/or personal means under the condition that I, the rightful owner, am mentioned or a link to this repository is present on the head or sources for whatever use. This applies to the image files and the setup alike.
 
 [**Return to Top**](#frog-cursor)
